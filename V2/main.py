@@ -11,7 +11,7 @@ llm = ChatOpenAI(
     model_name="meta-llama/llama-4-maverick-17b-128e-instruct",
     openai_api_base="https://api.groq.com/openai/v1",
     temperature=0.6,
-    openai_api_key="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"
+    openai_api_key="YOu_GROQ_kEY"
 )
 
 # Configuración de embeddings
